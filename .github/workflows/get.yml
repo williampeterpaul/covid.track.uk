@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-         curl --compressed  "https://uks-covid19-pubdash-prod.azure-api.net/v1/data?filters=areaName=United%2520Kingdom;areaType=overview&structure=%7B%22date%22:%22date%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22,%22cumCasesByPublishDate%22:%22cumCasesByPublishDate%22%7D&format=json&page=1" | jq . > cases.uk.json
+         curl --compressed  "https://api.coronavirus.data.gov.uk/v1/data?filters=areaName=United%2520Kingdom;areaType=overview&structure=%7B%22date%22:%22date%22,%22newCasesByPublishDate%22:%22newCasesByPublishDate%22,%22cumCasesByPublishDate%22:%22cumCasesByPublishDate%22%7D" | jq . > cases.uk.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
