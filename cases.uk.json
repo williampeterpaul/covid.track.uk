@@ -1,7 +1,92 @@
 {
-  "length": 302,
+  "length": 319,
   "maxPageLimit": 2500,
   "data": [
+    {
+      "date": "2020-11-16",
+      "newCasesByPublishDate": 21363,
+      "cumCasesByPublishDate": 1390681
+    },
+    {
+      "date": "2020-11-15",
+      "newCasesByPublishDate": 24962,
+      "cumCasesByPublishDate": 1369318
+    },
+    {
+      "date": "2020-11-14",
+      "newCasesByPublishDate": 26860,
+      "cumCasesByPublishDate": 1344356
+    },
+    {
+      "date": "2020-11-13",
+      "newCasesByPublishDate": 27301,
+      "cumCasesByPublishDate": 1317496
+    },
+    {
+      "date": "2020-11-12",
+      "newCasesByPublishDate": 33470,
+      "cumCasesByPublishDate": 1290195
+    },
+    {
+      "date": "2020-11-11",
+      "newCasesByPublishDate": 22950,
+      "cumCasesByPublishDate": 1256725
+    },
+    {
+      "date": "2020-11-10",
+      "newCasesByPublishDate": 20412,
+      "cumCasesByPublishDate": 1233775
+    },
+    {
+      "date": "2020-11-09",
+      "newCasesByPublishDate": 21350,
+      "cumCasesByPublishDate": 1213363
+    },
+    {
+      "date": "2020-11-08",
+      "newCasesByPublishDate": 20572,
+      "cumCasesByPublishDate": 1192013
+    },
+    {
+      "date": "2020-11-07",
+      "newCasesByPublishDate": 24957,
+      "cumCasesByPublishDate": 1171441
+    },
+    {
+      "date": "2020-11-06",
+      "newCasesByPublishDate": 23287,
+      "cumCasesByPublishDate": 1146484
+    },
+    {
+      "date": "2020-11-05",
+      "newCasesByPublishDate": 24141,
+      "cumCasesByPublishDate": 1123197
+    },
+    {
+      "date": "2020-11-04",
+      "newCasesByPublishDate": 25177,
+      "cumCasesByPublishDate": 1099059
+    },
+    {
+      "date": "2020-11-03",
+      "newCasesByPublishDate": 20018,
+      "cumCasesByPublishDate": 1073882
+    },
+    {
+      "date": "2020-11-02",
+      "newCasesByPublishDate": 18950,
+      "cumCasesByPublishDate": 1053864
+    },
+    {
+      "date": "2020-11-01",
+      "newCasesByPublishDate": 23254,
+      "cumCasesByPublishDate": 1034914
+    },
+    {
+      "date": "2020-10-31",
+      "newCasesByPublishDate": 21915,
+      "cumCasesByPublishDate": 1011660
+    },
     {
       "date": "2020-10-30",
       "newCasesByPublishDate": 24405,
