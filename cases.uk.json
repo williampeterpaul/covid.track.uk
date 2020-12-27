@@ -1,21 +1,26 @@
 {
-  "length": 359,
+  "length": 360,
   "maxPageLimit": 2500,
   "data": [
     {
+      "date": "2020-12-27",
+      "newCasesByPublishDate": 30501,
+      "cumCasesByPublishDate": 2288345
+    },
+    {
       "date": "2020-12-26",
-      "newCasesByPublishDate": 34693,
-      "cumCasesByPublishDate": 2256005
+      "newCasesByPublishDate": 35691,
+      "cumCasesByPublishDate": 2257844
     },
     {
       "date": "2020-12-25",
       "newCasesByPublishDate": 32725,
-      "cumCasesByPublishDate": 2221312
+      "cumCasesByPublishDate": 2222153
     },
     {
       "date": "2020-12-24",
-      "newCasesByPublishDate": 39036,
-      "cumCasesByPublishDate": 2188587
+      "newCasesByPublishDate": 39877,
+      "cumCasesByPublishDate": 2189428
     },
     {
       "date": "2020-12-23",
