@@ -1,7 +1,12 @@
 {
-  "length": 388,
+  "length": 389,
   "maxPageLimit": 2500,
   "data": [
+    {
+      "date": "2021-01-25",
+      "newCasesByPublishDate": 22195,
+      "cumCasesByPublishDate": 3669658
+    },
     {
       "date": "2021-01-24",
       "newCasesByPublishDate": 30004,
