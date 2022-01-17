@@ -1,17 +1,22 @@
 {
-  "length": 717,
+  "length": 718,
   "maxPageLimit": 2500,
-  "totalRecords": 1434,
+  "totalRecords": 1436,
   "data": [
     {
+      "date": "2022-01-17",
+      "newCasesByPublishDate": 84429,
+      "cumCasesByPublishDate": 15305410
+    },
+    {
       "date": "2022-01-16",
-      "newCasesByPublishDate": 70924,
-      "cumCasesByPublishDate": 15217280
+      "newCasesByPublishDate": 75031,
+      "cumCasesByPublishDate": 15221366
     },
     {
       "date": "2022-01-15",
       "newCasesByPublishDate": 81713,
-      "cumCasesByPublishDate": 15147120
+      "cumCasesByPublishDate": 15147099
     },
     {
       "date": "2022-01-14",
