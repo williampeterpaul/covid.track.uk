@@ -1,8 +1,13 @@
 {
-  "length": 720,
+  "length": 721,
   "maxPageLimit": 2500,
-  "totalRecords": 1440,
+  "totalRecords": 1442,
   "data": [
+    {
+      "date": "2022-01-20",
+      "newCasesByPublishDate": 107364,
+      "cumCasesByPublishDate": 15613283
+    },
     {
       "date": "2022-01-19",
       "newCasesByPublishDate": 108069,
