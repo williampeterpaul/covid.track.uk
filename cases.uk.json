@@ -1,17 +1,27 @@
 {
-  "length": 731,
+  "length": 733,
   "maxPageLimit": 2500,
-  "totalRecords": 1462,
+  "totalRecords": 1466,
   "data": [
     {
+      "date": "2022-02-01",
+      "newCasesByPublishDate": 112458,
+      "cumCasesByPublishDate": 17428345
+    },
+    {
+      "date": "2022-01-31",
+      "newCasesByPublishDate": 92368,
+      "cumCasesByPublishDate": 17315893
+    },
+    {
       "date": "2022-01-30",
-      "newCasesByPublishDate": 62399,
-      "cumCasesByPublishDate": 16468522
+      "newCasesByPublishDate": 69007,
+      "cumCasesByPublishDate": 16478467
     },
     {
       "date": "2022-01-29",
-      "newCasesByPublishDate": 72727,
-      "cumCasesByPublishDate": 16406123
+      "newCasesByPublishDate": 76069,
+      "cumCasesByPublishDate": 16409459
     },
     {
       "date": "2022-01-28",
