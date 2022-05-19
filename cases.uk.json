@@ -1,8 +1,23 @@
 {
-  "length": 837,
+  "length": 840,
   "maxPageLimit": 2500,
-  "totalRecords": 1674,
+  "totalRecords": 1680,
   "data": [
+    {
+      "date": "2022-05-19",
+      "newCasesByPublishDate": 12208,
+      "cumCasesByPublishDate": 22232377
+    },
+    {
+      "date": "2022-05-18",
+      "newCasesByPublishDate": 7791,
+      "cumCasesByPublishDate": 22220178
+    },
+    {
+      "date": "2022-05-17",
+      "newCasesByPublishDate": 8603,
+      "cumCasesByPublishDate": 22212395
+    },
     {
       "date": "2022-05-16",
       "newCasesByPublishDate": 22337,
